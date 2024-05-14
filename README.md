@@ -59,7 +59,7 @@ Follow the steps outlined above to complete the project successfully.
 
 # Presentation Talking Points
 
-Example #: [Insert Example Number]
+Example #: [example_1] (loom link:    https://www.loom.com/share/8be7f74ab9c047e98cb2e8f7f9005322?sid=110d2b67-d22d-44a7-9d08-1ad1ce04643b)
 
 ## Imperative Approach [2 Minutes]
 1. **Step-by-Step Explanation:** Start by explaining the code logic in the imperative approach.
@@ -72,7 +72,7 @@ Example #: [Insert Example Number]
    - Discuss any mutable variables or states that change during execution.
 
 
-Example #: [Insert Example Number]
+Example #: [example_2] (loom link:    https://www.loom.com/share/d7de61c97f714d81bb9f95aea044399c?sid=45a50f03-ee96-45c7-b344-f2e7fcf70f37)
 
 ## Declarative Approach [2 Minutes]
 1. **High-Level Process Description:** Explain the code logic in the declarative approach.
@@ -83,6 +83,6 @@ Example #: [Insert Example Number]
    - Explain how the process steps are organized in a structured format.
    - Mention any abstraction layers or functions used to encapsulate actions.
 
-# Learning Outcome [1 Minute]
+# Learning Outcome [1 Minute]  (loom link:    https://www.loom.com/share/680be051ef21465b9f7c44a2c48ea5e0?sid=20fc9499-be61-4aab-82d8-63cffed296e8)
 - Reflect on what you've learned from analyzing these code examples in different paradigms.
 
